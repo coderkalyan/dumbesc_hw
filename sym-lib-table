@@ -1,4 +1,6 @@
 (sym_lib_table
   (lib (name "MCU_RaspberryPi_RP2040")(type "KiCad")(uri "${KIPRJMOD}/standard-libs/symbol/MCU_RaspberryPi_RP2040.kicad_sym")(options "")(descr ""))
   (lib (name "TLV71333PDQ")(type "KiCad")(uri "${KIPRJMOD}/standard-libs/symbol/TLV71333PDQ.kicad_sym")(options "")(descr ""))
+  (lib (name "FD6288Q")(type "KiCad")(uri "${KIPRJMOD}/standard-libs/symbol/FD6288Q.kicad_sym")(options "")(descr ""))
+  (lib (name "AP7375")(type "KiCad")(uri "${KIPRJMOD}/standard-libs/symbol/AP7375.kicad_sym")(options "")(descr ""))
 )

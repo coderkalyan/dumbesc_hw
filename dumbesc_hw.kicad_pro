@@ -320,6 +320,18 @@
     [
       "4d1868df-47fa-4250-8658-8e19ab62dfef",
       ""
+    ],
+    [
+      "3b0693f3-951d-457f-85da-8eb2e36bc6e8",
+      "Drive Stage"
+    ],
+    [
+      "2e6bd188-4b4d-49cb-bec3-f6aa5f5b6b70",
+      "Interfaces"
+    ],
+    [
+      "3ec139ed-5127-4c33-bffa-fed47cba0572",
+      "Power Stage"
     ]
   ],
   "text_variables": {}
